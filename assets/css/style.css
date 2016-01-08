@@ -1,4 +1,4 @@
-﻿/*!
+/*!
  * Dora Onepage Personal Portfolio Template
  * © scrils
 */
@@ -115,8 +115,8 @@ a:focus {
   	color: #111;
 }
 .navbar li.active a {
-	color: #a74752;
-	border-bottom: 2px solid #a74752;
+	color: #3e39ab;
+	border-bottom: 2px solid #3e39ab;
 }
 .navbar-toggle {
 	font-size: 30px;
@@ -159,9 +159,9 @@ a:focus {
 	color:#111;
 	padding: 20px 0px;
 	padding-bottom: 0px;
-	font-family: "Tangerine", sans-serif;
+	font-family: "Economica", sans-serif;
 	font-size: 30px;
-	color: #a74752;
+	color: #3e39ab;
 	font-weight: 700;
 	letter-spacing: 1px;
 }
@@ -209,11 +209,11 @@ a:focus {
 	color: #fff !important;
 }
 .sectionTitle h6{
-	font-family: 'Tangerine', sans-serif;
+	font-family: 'Economica', sans-serif;
 	font-size: 14px;
 	line-height: 30px;
 	letter-spacing: 1px;
-	color:#a74752;
+	color:#3e39ab;
 	font-size: 32px;
 	font-weight: 700;
 }
@@ -239,7 +239,7 @@ a:focus {
 .storyText h6{
 	font-family: "Montserrat", sans-serif;
 	font-size: 12px;
-	color:#a74752;
+	color:#3e39ab;
 	letter-spacing: 0.08em;
 	text-transform: uppercase;
 	font-weight: 600;
@@ -262,7 +262,7 @@ a:focus {
 }
 
 .quote{
-	background-color: #a74752;
+	background-color: #1e73ab;
 	padding: 20px 55px;
 	padding-top: 30px;
 }
@@ -286,14 +286,24 @@ a:focus {
 	color:#fff;
 }
 
-.quote h5{
-	font-family: "Tangerine", sans-serif;
-	text-align: right;
-	font-weight: 700;
+
+.quote h4{
+	font-family: "Montserrat", sans-serif;
 	letter-spacing: 0.08em;
+	text-transform: uppercase;
+	font-weight: 700;
+	margin-bottom: 25px;
 	color:#fff;
-	font-size: 30px;
-	margin-top: 10px;
+}
+
+.quote p{
+	font-family: 'Roboto Slab', sans-serif;
+	font-size: 14px;
+	text-align: left;
+	line-height: 30px;
+	font-weight: 300;
+	letter-spacing: 1px;
+	color:#fff;
 }
 
 
@@ -312,7 +322,7 @@ a:focus {
 	-moz-padding-start:0px;
 }
 .resumeList li.resTitle{
-	background-color: #a74752;
+	background-color: #1e73ab;
 	color:#fff;
 }
 .resumeList li {
@@ -338,11 +348,11 @@ a:focus {
 	font-family: "Montserrat", sans-serif;
 }
 .resumeList span {
-	font-family: 'Tangerine', sans-serif;
-	font-size: 30px;
+	font-family: 'Economica', sans-serif;
+	font-size: 20px;
 	letter-spacing: 1px;
 	text-transform: uppercase;
-	color: #a74752;
+	color: #3e39ab;
 	font-weight: 700;
 }
 .resumeList p {
@@ -359,7 +369,7 @@ a:focus {
 	font-size: 30px;
 	width: 50px;
 	height: 50px;
-	background: #a74752;
+	background: #1e73ab;
 	color:#fff;
 	padding: 8px 11px;
 	border-radius: 50%;
@@ -441,7 +451,7 @@ a:focus {
 .itemHover h6{
 	letter-spacing: 1px;
 	font-size: 25px;
-  	color: #a74752 ;
+  	color: #3e39ab ;
   	display: inline-block;
   	margin: 0 auto;
   	max-width: 90%;
@@ -449,7 +459,7 @@ a:focus {
   	position: absolute;
   	font-weight: 700;
   	bottom:35px;
-  	font-family: "Tangerine", sans-serif;
+  	font-family: "Economica", sans-serif;
 }
 .modal-box {
 	max-width: 550px;
@@ -526,12 +536,12 @@ a:focus {
 	margin-bottom: 20px;
 }
 .servicesContent h6{
-	font-family: 'Tangerine', sans-serif;
+	font-family: 'Economica', sans-serif;
 	font-size: 28px;
 	letter-spacing: 1px;
 	margin: 15px 0px;
 	margin-bottom: 25px;
-	color: #a74752;
+	color: #3e39ab;
 	font-weight: 700;
 }
 .servicesContent p{
@@ -547,7 +557,7 @@ a:focus {
 	font-size: 30px;
 	width: 50px;
 	height: 50px;
-	background: #a74752;
+	background: #1e73ab;
 	padding: 8px 11px;
 	padding-top: 10px;
 	padding-right: 16px;
@@ -611,7 +621,7 @@ a:focus {
 	padding-top:10px;
 	border-top: 1px solid #c3d7d8;
 	text-align: left;
-	color:#a74752;
+	color:#3e39ab;
 	font-family: "Montserrat", sans-serif;
 	letter-spacing: 0.04em;
 	font-size: 12px;
@@ -621,7 +631,7 @@ span.separator{
 	margin: 0px 10px;
 }
 .blog-item h6 a{
-	color:#a74752;
+	color:#a3e39ab;
 }
 .blog-item a:focus, .blog-item a:hover{text-decoration: none;}
 .blog-item b a {
@@ -703,7 +713,7 @@ input.submit {
   	font-family: "Montserrat", sans-serif;
 }
 input.submit:hover{
-	background:#a74752;
+	background:#1e73ab;
 }
 input::-webkit-input-placeholder, textarea::-webkit-input-placeholder {
   color: #888;
@@ -782,9 +792,9 @@ ul.errorMessages li {
 	color:#111;
 }
 .fCopy p{
-	font-family: "Tangerine", sans-serif;
+	font-family: "Economica", sans-serif;
 	font-size: 25px;
-	color:#a74752;
+	color:#3e39ab;
 	letter-spacing: 1px;
 	font-weight: 700;
 	margin-top: 10px;
