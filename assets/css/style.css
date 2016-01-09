@@ -675,7 +675,7 @@ input, textarea, select {
     font-size: 14px;
     font-weight: 300;
     letter-spacing: 1px;
-    color:#a74752;
+    color:#3e39ab;
     font-family: "Roboto Slab", sans-serif;
 }
 
@@ -713,7 +713,7 @@ input.submit {
   	font-family: "Montserrat", sans-serif;
 }
 input.submit:hover{
-	background:#1e73ab;
+	background:#1e73ab text: Done;
 }
 input::-webkit-input-placeholder, textarea::-webkit-input-placeholder {
   color: #888;
